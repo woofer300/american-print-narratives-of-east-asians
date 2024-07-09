@@ -1,5 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/virtualenv,jetbrains+all,jupyternotebooks,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=virtualenv,jetbrains+all,jupyternotebooks,macos
+# Created by https://www.toptal.com/developers/gitignore/api/macos,virtualenv,jetbrains+all,jupyternotebooks,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,virtualenv,jetbrains+all,jupyternotebooks,dotenv
+
+### dotenv ###
+.env
 
 ### JetBrains+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -150,4 +153,4 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
-# End of https://www.toptal.com/developers/gitignore/api/virtualenv,jetbrains+all,jupyternotebooks,macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,virtualenv,jetbrains+all,jupyternotebooks,dotenv
