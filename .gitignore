@@ -155,9 +155,8 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,virtualenv,jetbrains+all,jupyternotebooks,dotenv
 
-# Contexts
+
+uncorrected_contexts/
 contexts/
-# Articles
 articles/
-# Results
 results/
